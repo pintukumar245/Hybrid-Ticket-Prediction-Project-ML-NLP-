@@ -1,0 +1,51 @@
+Employee_ID,Department,Experience_Years,Avg_Resolution_Time,Tickets_Handled,Customer_Rating_Avg
+36,Network,13,20,158,4.23
+38,Network,13,20,158,4.23
+24,IT Support,7,112,173,3.26
+17,IT Support,7,112,173,3.26
+31,Network,8,57,70,4.39
+12,Network,13,67,109,4.38
+45,IT Support,8,103,99,5.0
+5,Network,2,48,219,4.2
+32,Network,2,31,79,4.19
+1,Hardware,11,41,151,4.58
+50,Software,3,68,179,3.18
+22,Network,9,22,245,3.69
+39,Network,4,66,79,3.7
+43,Hardware,10,14,77,4.07
+25,IT Support,8,114,270,2.87
+40,IT Support,1,51,212,4.84
+41,Hardware,9,80,234,3.47
+47,IT Support,12,90,120,2.63
+21,IT Support,3,20,97,2.59
+2,IT Support,12,90,120,2.63
+7,Network,13,67,109,4.38
+23,Software,3,68,179,3.18
+42,Network,6,18,193,4.93
+33,Network,4,62,104,2.87
+18,IT Support,12,90,120,2.63
+26,IT Support,3,20,97,2.59
+27,Software,14,67,135,4.09
+6,IT Support,14,28,207,2.99
+16,Network,2,31,79,4.19
+13,Software,14,67,135,4.09
+37,Software,4,20,146,4.7
+34,Network,4,62,104,2.87
+9,IT Support,14,84,101,3.42
+4,IT Support,7,112,173,3.26
+20,Software,8,80,73,3.75
+35,Network,6,18,193,4.93
+19,Software,12,73,82,2.57
+44,IT Support,8,103,99,5.0
+48,Software,10,96,86,4.14
+30,Network,12,39,270,2.91
+46,IT Support,14,28,207,2.99
+49,Network,13,67,109,4.38
+3,Network,2,31,79,4.19
+8,Software,3,98,157,4.29
+10,IT Support,4,64,235,2.81
+11,Network,13,67,109,4.38
+28,Software,3,98,157,4.29
+29,IT Support,9,86,81,4.84
+15,IT Support,8,103,99,5.0
+14,Network,2,48,219,4.2

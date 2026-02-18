@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/
+service_app/
+.agent/
+.gemini/
+*.bat
+!run_classifier.bat
+migrate_db.py
+ticket hybrid project.ipynb
+final_hybrid_ticket_employee_dataset.csv
+*x.csv
